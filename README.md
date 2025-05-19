@@ -1,1 +1,3 @@
-# build-engineer-interview-debug-exercise
+# Interview Exercise Repository
+
+This is an example repository for a framework.
